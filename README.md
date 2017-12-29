@@ -18,7 +18,7 @@
 
 	Martins original documents from 2014
 
-blablalba *blabla* 
-'' some code''
+blablalba **blabla** 
+`` some code``
 no code
-'hihi'
+`hihi`
